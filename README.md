@@ -13,3 +13,5 @@ Step to deployment
 2. deploy
 
 ## How to Contribute
+
+copyright by Sonthaya
