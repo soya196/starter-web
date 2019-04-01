@@ -1,7 +1,7 @@
 # Starter Web Repo
 
-thi is a simple webproject
-
+this is a simple webproject
+Add more rebasing example
 ## Introduction
 Add introduction instructions
 
